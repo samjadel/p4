@@ -1,0 +1,164 @@
+{
+  "sneakers": [
+    {
+      "name": "Air Jordan 1 Retro High OG 'Chicago'",
+      "image": "https://example.com/sneakers/jordan-1-chicago.jpg",
+      "price": 160
+    },
+    {
+      "name": "Air Jordan 3 Retro 'Black Cement'",
+      "image": "https://example.com/sneakers/jordan-3-black-cement.jpg",
+      "price": 190
+    },
+    {
+      "name": "Air Jordan 11 Retro 'Concord'",
+      "image": "https://example.com/sneakers/jordan-11-concord.jpg",
+      "price": 220
+    },
+    {
+      "name": "Air Jordan 1 Retro High OG 'Royal'",
+      "image": "https://example.com/sneakers/jordan-1-royal.jpg",
+      "price": 160
+    },
+    {
+      "name": "Air Jordan 3 Retro 'Fire Red'",
+      "image": "https://example.com/sneakers/jordan-3-fire-red.jpg",
+      "price": 190
+    },
+    {
+      "name": "Air Jordan 11 Retro 'Bred'",
+      "image": "https://example.com/sneakers/jordan-11-bred.jpg",
+      "price": 220
+    },
+    {
+      "name": "Air Jordan 1 Retro High OG 'Bred Toe'",
+      "image": "https://example.com/sneakers/jordan-1-bred-toe.jpg",
+      "price": 160
+    },
+    {
+      "name": "Air Jordan 3 Retro 'True Blue'",
+      "image": "https://example.com/sneakers/jordan-3-true-blue.jpg",
+      "price": 190
+    },
+    {
+      "name": "Air Jordan 11 Retro 'Space Jam'",
+      "image": "https://example.com/sneakers/jordan-11-space-jam.jpg",
+      "price": 220
+    },
+    {
+      "name": "Air Jordan 1 Retro High OG 'Shattered Backboard'",
+      "image": "https://example.com/sneakers/jordan-1-shattered-backboard.jpg",
+      "price": 160
+    },
+    {
+      "name": "Air Jordan 3 Retro 'Black Cement' (2018)",
+      "image": "https://example.com/sneakers/jordan-3-black-cement-2018.jpg",
+      "price": 190
+    },
+    {
+      "name": "Air Jordan 11 Retro 'Gamma Blue'",
+      "image": "https://example.com/sneakers/jordan-11-gamma-blue.jpg",
+      "price": 220
+    },
+    {
+      "name": "Travis Scott x Air Jordan 1 Retro High OG 'Mocha'",
+      "image": "https://example.com/sneakers/travis-scott-air-jordan-1-mocha.jpg",
+      "price": 200
+    },
+    {
+      "name": "Off-White x Nike Air Force 1 '07 'MCA'",
+      "image": "https://example.com/sneakers/off-white-nike-air-force-1-mca.jpg",
+      "price": 1500
+    },
+    {
+      "name": "Travis Scott x Air Jordan 6 Retro 'British Khaki'",
+      "image": "https://example.com/sneakers/travis-scott-air-jordan-6-british-khaki.jpg",
+      "price": 250
+    },
+    {
+      "name": "Off-White x Nike Dunk Low 'The 50 - Grey'",
+      "image": "https://example.com/sneakers/off-white-nike-dunk-low-the-50-grey.jpg",
+      "price": 180
+    },
+    {
+      "name": "Travis Scott x Air Jordan 4 Retro 'Cactus Jack'",
+      "image": "https://example.com/sneakers/travis-scott-air-jordan-4-cactus-jack.jpg",
+      "price": 250
+    },
+    {
+      "name": "Off-White x Nike Zoom Terra Kiger 5 'Electric Green'",
+      "image": "https://example.com/sneakers/off-white-nike-zoom-terra-kiger-5-electric-green.jpg",
+      "price": 180
+    },
+    {
+      "name": "Travis Scott x Air Jordan 1 Retro High OG 'Chicago'",
+      "image": "https://example.com/sneakers/travis-scott-air-jordan-1-chicago.jpg",
+      "price": 200
+    },
+    {
+      "name": "Off-White x Nike Air Max 90 'Desert Ore'",
+      "image": "https://example.com/sneakers/off-white-nike-air-max-90-desert-ore.jpg",
+      "price": 160
+    },
+    {
+      "name": "Travis Scott x Air Jordan 1 Low 'Dark Mocha'",
+      "image": "https://example.com/sneakers/travis-scott-air-jordan-1-low-dark-mocha.jpg",
+      "price": 150
+    },
+    {
+      "name": "Off-White x Nike Dunk Low 'The 50 - White'",
+      "image": "https://example.com/sneakers/off-white-nike-dunk-low-the-50-white.jpg",
+      "price": 180
+    },
+    {
+      "name": "Nike Dunk Low 'Plum'",
+      "image": "https://example.com/sneakers/nike-dunk-low-plum.jpg",
+      "price": 110
+    },
+    {
+      "name": "Nike Dunk High 'Michigan'",
+      "image": "https://example.com/sneakers/nike-dunk-high-michigan.jpg",
+      "price": 120
+    },
+    {
+      "name": "Nike Dunk Low 'Syracuse'",
+      "image": "https://example.com/sneakers/nike-dunk-low-syracuse.jpg",
+      "price": 100
+    },
+    {
+      "name": "Nike Dunk Low 'Viotech'",
+      "image": "https://example.com/sneakers/nike-dunk-low-viotech.jpg",
+      "price": 120
+    },
+    {
+      "name": "Nike Dunk Low 'Samba'",
+      "image": "https://example.com/sneakers/nike-dunk-low-samba.jpg",
+      "price": 100
+    },
+    {
+      "name": "Nike Dunk High 'Spartan Green'",
+      "image": "https://example.com/sneakers/nike-dunk-high-spartan-green.jpg",
+      "price": 120
+    },
+    {
+      "name": "Nike Dunk Low 'St. John's'",
+      "image": "https://example.com/sneakers/nike-dunk-low-st-johns.jpg",
+      "price": 100
+    },
+    {
+      "name": "Nike Dunk Low 'Brazil'",
+      "image": "https://example.com/sneakers/nike-dunk-low-brazil.jpg",
+      "price": 110
+    },
+    {
+      "name": "Nike Dunk Low 'Veneer'",
+      "image": "https://example.com/sneakers/nike-dunk-low-veneer.jpg",
+      "price": 100
+    },
+    {
+      "name": "Nike Dunk High 'Kentucky'",
+      "image": "https://example.com/sneakers/nike-dunk-high-kentucky.jpg",
+      "price": 120
+    }
+  ]
+}

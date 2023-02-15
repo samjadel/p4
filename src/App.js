@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Header from "./Header";
 import Footer from "./Footer";
-import Login from "./Login";
 import Home from "./Home";
 import SneakerList from "./SneakerList";
 import "./App.css";
@@ -86,15 +85,38 @@ const App = () => {
       ) : (
         <div>
           <Home />
-          <Login
-            email={email}
-            setEmail={setEmail}
-            password={password}
-            setPassword={setPassword}
-            handleLogin={handleLogin}
-            handleSignUp={handleSignUp}
-            error={error}
-          />
+          <div>
+            <h1>Sign Up</h1>
+            {error && <p className="error">{error}</p>}
+            <input
+              type="email"
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+              placeholder="Email"
+            />
+            <input
+              type="password"
+              value={password}
+              onChange={(e) => setPassword(e.target.value)}
+              placeholder="Password"
+            />
+            <button onClick={handleSignUp}>Sign Up</button>
+            <h1>Login</h1>
+            {error && <p className="error">{error}</p>}
+            <input
+              type="email"
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+              placeholder="Email"
+            />
+            <input
+              type="password"
+              value={password}
+              onChange={(e) => setPassword(e.target.value)}
+              placeholder="Password"
+            />
+            <button onClick={handleLogin}>Login</button>
+          </div>
         </div>
       )}
       <Footer />
@@ -103,3 +125,5 @@ const App = () => {
 };
 
 export default App;
+
+

@@ -43,3 +43,13 @@ const Login = ({ handleLogin }) => {
 };
 
 export default Login;
+
+{/* <Login
+            email={email}
+            setEmail={setEmail}
+            password={password}
+            setPassword={setPassword}
+            handleLogin={handleLogin}
+            handleSignUp={handleSignUp}
+            error={error}
+          /> */
